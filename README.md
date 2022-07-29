@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ranjan Verma 
-- 👀 I’m a full stack web developer. 
-- 🌱 I’m currently learning app development (in flutter) and AI/ML
+- 👀 I’m a python developer. 
+- 🌱 I’m currently learning Machine Learning and data science. 
 
